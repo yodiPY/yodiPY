@@ -1,12 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020024,50:090979,100:00D4FF&text=Yodi%20Dwi%20Cahyo&fontColor=ffffff&fontSize=48&animation=twinkling&desc=Informatics%20Engineering%20Student%20%7C%20Web%20Developer%20%7C%20System%20Builder&descSize=17&descAlignY=68" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,45:0f172a,100:00D4FF&text=Hello&fontColor=ffffff&fontSize=78&animation=twinkling&desc=Hola%20%E2%80%A2%20Bonjour%20%E2%80%A2%20Ciao%20%E2%80%A2%20Hallo%20%E2%80%A2%20Hej%20%E2%80%A2%20Ol%C3%A1%20%E2%80%A2%20%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20%E2%80%A2%20%E4%BD%A0%E5%A5%BD%20%E2%80%A2%20%EC%95%88%EB%85%95%20%E2%80%A2%20%D9%85%D8%B1%D8%AD%D8%A8%D8%A7&descSize=20&descAlignY=70" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=700\&size=24\&duration=2500\&pause=900\&color=00D9FF\&center=true\&vCenter=true\&width=900\&lines=Building+Web-Based+Information+Systems;Designing+Clean+Database+Structures;Developing+Real+Projects+with+PHP+and+MySQL;Turning+Ideas+into+Functional+Web+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&duration=1400&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Hello;Hola;Bonjour;Ciao;Hallo;Hej;Ol%C3%A1;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Halo%2C+I'm+Yodi+Dwi+Cahyo)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+### Informatics Engineering Student | Web Developer | System Builder
 
 </div>
 
