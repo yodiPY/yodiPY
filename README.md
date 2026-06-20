@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Greeting Animation" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=72&duration=1400&pause=450&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1000&height=160&lines=Hello;Hola;Bonjour;Ciao;Hallo;Hej;Ol%C3%A1;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Halo" />
+<img alt="Greeting Animation" src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=800&size=72&duration=1400&pause=450&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1000&height=160&lines=Hello;Hola;Bonjour;Ciao;Hallo;Hej;Ol%C3%A1;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Halo" />
 
 <br>
 
