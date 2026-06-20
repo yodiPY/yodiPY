@@ -1,24 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,45:0f172a,100:00D4FF&text=Hello&fontColor=ffffff&fontSize=78&animation=twinkling&desc=Hola%20%E2%80%A2%20Bonjour%20%E2%80%A2%20Ciao%20%E2%80%A2%20Hallo%20%E2%80%A2%20Hej%20%E2%80%A2%20Ol%C3%A1%20%E2%80%A2%20%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%20%E2%80%A2%20%E4%BD%A0%E5%A5%BD%20%E2%80%A2%20%EC%95%88%EB%85%95%20%E2%80%A2%20%D9%85%D8%B1%D8%AD%D8%A8%D8%A7&descSize=20&descAlignY=70" />
+<img alt="Greeting Animation" src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=72&duration=1400&pause=450&color=FFFFFF&center=true&vCenter=true&repeat=true&width=1000&height=160&lines=Hello;Hola;Bonjour;Ciao;Hallo;Hej;Ol%C3%A1;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Halo" />
 
-</div>
+<br>
 
-<div align="center">
+<img width="760" src="https://capsule-render.vercel.app/api?type=rounded&height=78&color=0:0B1220,45:111827,100:0EA5E9&text=Yodi%20Dwi%20Cahyo%20%E2%80%A2%20Informatics%20Engineering%20Student&fontColor=F8FAFC&fontSize=21&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=42&duration=1400&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=Hello;Hola;Bonjour;Ciao;Hallo;Hej;Ol%C3%A1;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Halo%2C+I'm+Yodi+Dwi+Cahyo)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-### Informatics Engineering Student | Web Developer | System Builder
-
-</div>
-
----
-
-<div align="center">
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=yodiPY&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/yodiPY?style=for-the-badge&color=00d9ff&labelColor=101010" />
@@ -30,28 +18,20 @@
 
 ## 🧠 About Me
 
-```php
-<?php
+Hi, I’m **Yodi Dwi Cahyo**, an Informatics Engineering student at **Universitas Pamulang**.
 
-class Developer {
-    public string $name = "Yodi Dwi Cahyo";
-    public string $role = "Informatics Engineering Student";
-    public string $university = "Universitas Pamulang";
-    public array $focus = [
-        "Web-Based Information Systems",
-        "PHP Native Development",
-        "MySQL Database Design",
-        "Academic Project Documentation",
-        "UI Improvement"
-    ];
+I focus on building practical web-based information systems using **PHP Native, MySQL, HTML, CSS, JavaScript, and Bootstrap**. I enjoy developing applications that solve real problems, especially systems related to data management, reporting, monitoring, and academic needs.
 
-    public function currentProject(): string {
-        return "Sistem Monitoring Wali Santri Al-Bayan";
-    }
-}
-```
+Currently, I am working on a web-based system called **Sistem Monitoring Wali Santri Al-Bayan**, developed to help guardians monitor student attendance, activities, academic progress, memorization, health records, and daily reports.
 
-I am an Informatics Engineering student who focuses on building practical web-based systems, especially applications related to data management, reporting, monitoring, and academic information systems.
+### Current Focus
+
+* Web-Based Information Systems
+* PHP Native Development
+* MySQL Database Design
+* CRUD Application Development
+* Academic Project Documentation
+* UI/UX Improvement
 
 ---
 
@@ -87,7 +67,7 @@ I am an Informatics Engineering student who focuses on building practical web-ba
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=160&color=0:0f2027,50:203a43,100:2c5364&text=Sistem%20Monitoring%20Wali%20Santri&fontColor=ffffff&fontSize=30&animation=fadeIn&desc=Web-Based%20Information%20System%20for%20Al-Bayan%20Islamic%20Boarding%20School&descSize=13" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:0B1220,50:1E293B,100:0EA5E9&text=Sistem%20Monitoring%20Wali%20Santri&fontColor=F8FAFC&fontSize=30&animation=fadeIn&desc=Web-Based%20Information%20System%20for%20Al-Bayan%20Islamic%20Boarding%20School&descSize=13" />
 
 </div>
 
