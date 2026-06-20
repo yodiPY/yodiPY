@@ -4,9 +4,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yodiPY&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/yodiPY?style=for-the-badge&color=00d9ff&labelColor=101010" />
-<img src="https://img.shields.io/github/stars/yodiPY?style=for-the-badge&color=00d9ff&labelColor=101010" />
+
 
 </div>
 
