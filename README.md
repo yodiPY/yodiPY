@@ -1,12 +1,20 @@
 <div align="center">
 
-<img alt="Greeting Animation" src="https://readme-typing-svg.demolab.com?font=Borel&size=72&duration=1500&pause=800&color=FFFFFF&center=true&vCenter=true&repeat=true&width=900&height=150&lines=Hello;Hola;Bonjour;Ciao;Hallo;Hej;Ol%C3%A1;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7;Halo" />
+<table>
+<tr>
+<td>
 
-<h2>I'm Yodi Dwi Cahyo</h2>
+<img src="https://readme-typing-svg.demolab.com?font=Borel&size=50&duration=1500&pause=800&color=FFFFFF&center=true&vCenter=true&width=250&height=70&lines=Hello;Hola;Bonjour;Ciao;Hallo;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%E4%BD%A0%E5%A5%BD;%EC%95%88%EB%85%95;Halo" />
 
-<img src="https://komarev.com/ghpvc/?username=yodiPY&label=Profile%20Views&color=00d9ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/yodiPY?style=for-the-badge&color=00d9ff&labelColor=101010" />
-<img src="https://img.shields.io/github/stars/yodiPY?style=for-the-badge&color=00d9ff&labelColor=101010" />
+</td>
+
+<td>
+
+<h1>I'm Yodi Dwi Cahyo</h1>
+
+</td>
+</tr>
+</table>
 
 </div>
 ---
