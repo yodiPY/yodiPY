@@ -7,8 +7,6 @@
 
 
 </div>
-
-
 ## 🧠 About Me
 
 Hi, I’m **Yodi Dwi Cahyo**, an Informatics Engineering student at **Universitas Pamulang**.
