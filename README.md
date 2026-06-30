@@ -53,13 +53,7 @@ Currently, I am working on a web-based system called **Sistem Monitoring Wali Sa
 
 </div>
 
----
 
-## 🚀 Featured Project
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&height=150&color=0:0B1220,50:1E293B,100:0EA5E9&text=Sistem%20Monitoring%20Wali%20Santri&fontColor=F8FAFC&fontSize=30&animation=fadeIn&desc=Web-Based%20Information%20System%20for%20Al-Bayan%20Islamic%20Boarding%20School&descSize=13" />
 
 </div>
 
