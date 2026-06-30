@@ -63,9 +63,6 @@ Currently, I am working on a web-based system called **Sistem Monitoring Wali Sa
 
 </div>
 
-### 🕌 Sistem Monitoring Wali Santri Al-Bayan
-
-A web-based information system developed to help guardians monitor student activities, attendance, academic progress, memorization, health records, and daily activity reports.
 
 **Main Features**
 
